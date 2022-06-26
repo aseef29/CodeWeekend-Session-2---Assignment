@@ -1,4 +1,7 @@
-# CodeWeekend-Session-2---Assignment
+CodeWeekend Session 2 - Assignment
+Mustafa Ehsan
+Jun 21
+
 The assignment for this week will be to build a profile/blog website for yourself with the following items. This should be using pure HTML and CSS that was taught last session.
 It should have an homepage where it will include the following items.
 A profile picture
